@@ -14,3 +14,4 @@
 <script src="asset/design/highcharts/modules/stock.js"></script>
 <script src="asset/design/highcharts/modules/map.js"></script>
 <script src="asset/design/highcharts/modules/gantt.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
