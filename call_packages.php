@@ -2,6 +2,7 @@
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 <link rel="stylesheet" href="asset/design/bootstrap/dist/css/bootstrap.css">
 <link rel="stylesheet" href="asset/animation/animate.css/animate.min.css">
+<link rel="stylesheet" href="asset/animation/css/animation.css">
 <link rel="stylesheet" href="asset/animation/aos/aos/dist/aos.css">
 <link rel="stylesheet" href="https://cdn.datatables.net/2.0.1/css/dataTables.dataTables.css">
 <link rel="stylesheet" href="https://cdn.datatables.net/2.0.1/css/dataTables.bootstrap5.css">
@@ -15,3 +16,4 @@
 <script src="asset/design/highcharts/modules/map.js"></script>
 <script src="asset/design/highcharts/modules/gantt.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="asset/animation/js/animation.js"></script>
